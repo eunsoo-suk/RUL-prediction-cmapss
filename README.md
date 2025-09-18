@@ -7,6 +7,8 @@ The workflow includes data preparation, sliding-window sequence generation, mode
 
 ### 📂 Dataset Composition
 
+[Download RUL Dataset](https://drive.google.com/file/d/1smfbeqOaf4UEEY5ulXlOZMMB3TXwNtqp/view?usp=drive_link)
+
 - Source: NASA CMAPSS Turbofan Engine Degradation Dataset
 
 - Train set: Full run-to-failure sensor sequences for multiple engine units
