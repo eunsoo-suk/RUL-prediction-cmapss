@@ -52,6 +52,6 @@ Target: Remaining Useful Life (RUL) in cycles
 
 ### 📊 Results (Example)
 
-- LSTM: MAE = 16.8, RMSE = 22.5, R² = 0.72
-
-- GRU: MAE = 15.9, RMSE = 21.3, R² = 0.75
+- LSTM: MAE = 16.428, RMSE = 24.454, R² = 0.824
+  
+- GRU: MAE = 16.904, RMSE = 24.453, R² = 0.824
