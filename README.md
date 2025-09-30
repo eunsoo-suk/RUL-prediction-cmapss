@@ -55,3 +55,17 @@ Target: Remaining Useful Life (RUL) in cycles
 - LSTM: MAE = 16.428, RMSE = 24.454, R² = 0.824
   
 - GRU: MAE = 16.904, RMSE = 24.453, R² = 0.824
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/78a01b0e-bb9c-484b-a4ef-5fc471aa4142" width="400"><br>
+      <sub>LSTM Parity Plot</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/1cc555ab-1178-4697-b7b5-802252a49594" width="400"><br>
+      <sub>GRU Parity Plot</sub>
+    </td>
+  </tr>
+</table>
+
